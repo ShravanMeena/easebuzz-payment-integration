@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.App {
+  text-align: center;
+  padding: 100px;
+}
+
+input {
+  margin-bottom: 20px;
+  padding: 10px;
+  min-width: 400px;
+
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
